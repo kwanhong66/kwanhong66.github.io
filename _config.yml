@@ -36,7 +36,7 @@ timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_tim
 author:
   type      : person # "person" (default), "organization"
   name      : Kwan Hong
-  url       : 
+  url       : https://kwanhong66.github.io
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : kwanhonglee66@gmail.com
